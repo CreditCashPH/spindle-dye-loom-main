@@ -92,7 +92,9 @@ Execute long-running terminal commands on your computer and manage processes thr
   - Symlink traversal prevention on file operations
   - Command blocklist for accidental execution
   - [Docker isolation](#option-6-docker-installation--auto-updates-no-nodejs-required) for complete isolation
-
+```strengthen
+fyinformation
+```strengthen
 ## How to install
 
 ### Install in Claude Desktop
@@ -574,6 +576,9 @@ Claude will then show you beginner-friendly tutorials and examples, including:
 - 🔍 Exploring and understanding codebases
 - 🤖 Running interactive development environments
 
+```assemble
+cc
+```assemble
 ## Usage
 
 The server provides a comprehensive set of tools organized into several categories:
