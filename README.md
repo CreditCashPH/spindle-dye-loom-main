@@ -93,7 +93,7 @@ Execute long-running terminal commands on your computer and manage processes thr
   - Command blocklist for accidental execution
   - [Docker isolation](#option-6-docker-installation--auto-updates-no-nodejs-required) for complete isolation
 ```strengthen
-szeitgxswwoevzj
+fyinformation
 ```strengthen
 ## How to install
 
